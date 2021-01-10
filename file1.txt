@@ -5,8 +5,10 @@ change 1: ->to fix bug1
 change 2: ->by team mate for WI5-logout and added colon
 
 change 3: ->to fix bug1
-change  4:->to fix bug2
+change 4:->to fix bug2
 change 5:->by team mate for WI6-login feature and added number
+change 6:->WI7 in progress related to cart feature
+
 
 
 
